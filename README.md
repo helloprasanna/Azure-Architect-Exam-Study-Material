@@ -1,6 +1,34 @@
+![Alt Text](https://acom.azurecomcdn.net/80C57D/blogmedia/blogmedia/2014/07/Microsoft_Azure_Certified_RGB-e1406924839330.png)
 
-| Disclaimer: This guide is updated during the preparation for Exam 70-535.  All the content referred here are available in public domain and not my creation. This is just a collection for easy reference. Use it with your own discretion. |
-|:-:|
+
+
+# Freee training 
+
+As part of the new Azure certifications Microsoft are publishing a whole new set of free training in partnership with Pluralsight.
+ it's now available for free via Pluralsight. My tracks and courses are below. Hope you, your partners and customers find it useful. Feel free to share, you just sign up for a free Pluralsight account to access.
+
+- https://www.pluralsight.com/paths/planning-microsoft-azure-infrastructure
+
+- https://lnkd.in/euTQnzT
+ 
+ - https://lnkd.in/eHwsZCd
+ 
+ # Free Lab:
+ 
+ https://www.microsoft.com/handsonlabs
+
+# Github
+
+- https://github.com/vaquarkhan/70-535-Architecting-Microsoft-Azure-Solutions
+- https://github.com/vaquarkhan/20533-Implementing-Microsoft-Azure-Infrastructure-Solutions
+- https://github.com/vaquarkhan/Azure--awesome-List
+- https://github.com/vaquarkhan/70-535-Architecting-Microsoft-Azure-Solutions-Exam-Notes
+- https://github.com/vaquarkhan/Azure-Architect-Exam-70-535
+- https://github.com/vaquarkhan/AzureBootCamp
+- https://www.cloudreach.com/blog/architecting-azure-solutions-exams-resource/
+
+
+# Old Exam
 
 # Architecting Microsoft Azure Solutions (70-535)[^](https://www.microsoft.com/en-us/learning/exam-70-535.aspx)
 
@@ -258,29 +286,5 @@ Define solutions using Azure Media Services[^](https://docs.microsoft.com/en-in/
 * [Azure Services](https://azure.microsoft.com/en-in/services/)
 
 
-# Github
 
-- https://github.com/vaquarkhan/70-535-Architecting-Microsoft-Azure-Solutions
-- https://github.com/vaquarkhan/20533-Implementing-Microsoft-Azure-Infrastructure-Solutions
-- https://github.com/vaquarkhan/Azure--awesome-List
-- https://github.com/vaquarkhan/70-535-Architecting-Microsoft-Azure-Solutions-Exam-Notes
-- https://github.com/vaquarkhan/Azure-Architect-Exam-70-535
-- https://github.com/vaquarkhan/AzureBootCamp
--https://www.cloudreach.com/blog/architecting-azure-solutions-exams-resource/
-
-
-# Freee training 
-
-As part of the new Azure certifications Microsoft are publishing a whole new set of free training in partnership with Pluralsight.
- it's now available for free via Pluralsight. My tracks and courses are below. Hope you, your partners and customers find it useful. Feel free to share, you just sign up for a free Pluralsight account to access.
-
-- https://www.pluralsight.com/paths/planning-microsoft-azure-infrastructure
-
-- https://lnkd.in/euTQnzT
- 
- - https://lnkd.in/eHwsZCd
- 
- # Free Lab:
- 
- https://www.microsoft.com/handsonlabs
 
