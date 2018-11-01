@@ -1,7 +1,6 @@
-![Alt Text](https://acom.azurecomcdn.net/80C57D/blogmedia/blogmedia/2014/07/Microsoft_Azure_Certified_RGB-e1406924839330.png   width="120" height="120")
+![Alt Text](https://azurecomcdn.azureedge.net/cvt-d8d272181756200a57832c2c87b89cadf43566d4e5a42dd4f6ce7da2211d71c9/images/page/marketplace/iot-partners/azure-certification-device.png)
 
-![](https://acom.azurecomcdn.net/80C57D/blogmedia/blogmedia/2014/07/Microsoft_Azure_Certified_RGB-e1406924839330.png )
-<img src="https://acom.azurecomcdn.net/80C57D/blogmedia/blogmedia/2014/07/Microsoft_Azure_Certified_RGB-e1406924839330.png "  width="120" height="120">
+-----------------------------------
 
 
 # Freee training 
