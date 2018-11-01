@@ -256,3 +256,14 @@ Define solutions using Azure Media Services[^](https://docs.microsoft.com/en-in/
 * [Avail free training](https://azure.microsoft.com/en-us/training/learning-paths/azure-solution-architect/)
 * [Books to study](https://buildazure.com/2018/02/01/book-exam-ref-70-535-architecting-microsoft-azure-solutions/) [^](http://amzn.to/2Fsg5IG)
 * [Azure Services](https://azure.microsoft.com/en-in/services/)
+
+
+# Github
+
+- https://github.com/vaquarkhan/70-535-Architecting-Microsoft-Azure-Solutions
+- https://github.com/vaquarkhan/20533-Implementing-Microsoft-Azure-Infrastructure-Solutions
+- https://github.com/vaquarkhan/Azure--awesome-List
+- https://github.com/vaquarkhan/70-535-Architecting-Microsoft-Azure-Solutions-Exam-Notes
+- https://github.com/vaquarkhan/Azure-Architect-Exam-70-535
+- https://github.com/vaquarkhan/AzureBootCamp
+
