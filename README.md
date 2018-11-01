@@ -1,4 +1,4 @@
-![Alt Text](https://acom.azurecomcdn.net/80C57D/blogmedia/blogmedia/2014/07/Microsoft_Azure_Certified_RGB-e1406924839330.png)
+![Alt Text](https://acom.azurecomcdn.net/80C57D/blogmedia/blogmedia/2014/07/Microsoft_Azure_Certified_RGB-e1406924839330.png  width="120" height="120")
 
 
 
