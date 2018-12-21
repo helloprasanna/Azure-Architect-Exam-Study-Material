@@ -14,6 +14,8 @@ As part of the new Azure certifications Microsoft are publishing a whole new set
  
  - https://lnkd.in/eHwsZCd
  
+ - https://azure.microsoft.com/en-us/blog/top-3-free-resources-developers-need-for-learning-azure/
+ 
  # Free Lab:
  
  https://www.microsoft.com/handsonlabs
