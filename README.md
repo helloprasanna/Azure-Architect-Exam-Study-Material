@@ -29,7 +29,7 @@ As part of the new Azure certifications Microsoft are publishing a whole new set
 - https://github.com/vaquarkhan/Azure-Architect-Exam-70-535
 - https://github.com/vaquarkhan/AzureBootCamp
 - https://www.cloudreach.com/blog/architecting-azure-solutions-exams-resource/
-
+- https://github.com/Azure/azure-quickstart-templates
 
 # Old Exam
 
