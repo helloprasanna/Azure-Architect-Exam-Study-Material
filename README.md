@@ -3,7 +3,7 @@
 -----------------------------------
 
 
-# Freee training 
+# Free training 
 
 As part of the new Azure certifications Microsoft are publishing a whole new set of free training in partnership with Pluralsight.
  it's now available for free via Pluralsight. My tracks and courses are below. Hope you, your partners and customers find it useful. Feel free to share, you just sign up for a free Pluralsight account to access.
